@@ -12,4 +12,4 @@ El perceptrón multinivel tendrá tres posibles patrones de entrada: uno para el
 
 Por ejemplo, para el primer patrón (lobo) tenemos que la entrada está dada por el vector (1, 1, 1, 0, 0, 0) y el de salida es (1, 1, 1, 0, 0, 0, 0).
 
-
+Se utiliza Package <a href="https://github.com/bips-hb/neuralnet">‘neuralnet’</a> de R
